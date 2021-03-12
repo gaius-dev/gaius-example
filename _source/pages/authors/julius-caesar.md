@@ -5,7 +5,6 @@ author: Julius Caesar
 author_image: /images/julius-caesar.jpg
 keywords: Gaius, Static Site Generator, Example Site, Example Author Page
 description: Gaius Example Site Example Author Page
-nav_order: 2.2
 ...
 
 This is a sample about the author page.

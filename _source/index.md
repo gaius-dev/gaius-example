@@ -6,7 +6,6 @@ keywords: Gaius, Static Site Generator, Example Site
 description: Gaius Example Site
 nav_order: 1
 nav_title: Home
-nav_in_header: true
 ...
 
 This is an example site built using the Gaius static site generation platform.  It's designed to give you an idea of the capabilities Gaius can provide.
