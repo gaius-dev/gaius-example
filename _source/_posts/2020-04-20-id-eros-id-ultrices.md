@@ -1,11 +1,10 @@
 ---
 layout: post
 title: Id Eros Id Ultrices
-image: /images/posts/roman-eagle-standard.jpg 
-teaser_image: /images/posts/teaser/roman-eagle-standard.jpg 
+image: /images/posts/roman-eagle-standard.webp 
 author: Julius Caesar
 author_page: /pages/authors/julius-caesar/
-author_image: /images/julius-caesar.jpg
+author_image: /images/julius-caesar.webp
 keywords: Gaius, Static Site Generator, Example Site, Example Post
 description: Gaius Example Site Example Post
 tags: ["Pharetra", "Hendrerit"]

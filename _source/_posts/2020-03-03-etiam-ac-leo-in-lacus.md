@@ -1,11 +1,10 @@
 ---
 layout: post
 title: Etiam Ac Leo In Lacus
-image: /images/posts/germanien.jpg
-teaser_image: /images/posts/teaser/germanien.jpg
+image: /images/posts/germanien.webp
 author: Julius Caesar
 author_page: /pages/authors/julius-caesar/
-author_image: /images/julius-caesar.jpg
+author_image: /images/julius-caesar.webp
 keywords: Gaius, Static Site Generator, Example Site, Example Post
 description: Gaius Example Site Example Post
 tags: ["Pharetra", "Vulputate", "Hendrerit"]

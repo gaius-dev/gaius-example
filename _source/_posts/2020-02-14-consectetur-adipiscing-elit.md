@@ -1,11 +1,10 @@
 ---
 layout: post
 title: Consectetur Adipiscing Elit
-image: /images/posts/cleopatra.jpg
-teaser_image: /images/posts/teaser/cleopatra.jpg
+image: /images/posts/cleopatra.webp
 author: Julius Caesar
 author_page: /pages/authors/julius-caesar/
-author_image: /images/julius-caesar.jpg
+author_image: /images/julius-caesar.webp
 keywords: Gaius, Static Site Generator, Example Site, Example Post
 description: Gaius Example Site Example Post
 tags: ["Pharetra", "Interdum", "Vulputate"]

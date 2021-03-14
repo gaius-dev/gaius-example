@@ -2,7 +2,7 @@
 layout: author
 title: About Julius Caesar
 author: Julius Caesar
-author_image: /images/julius-caesar.jpg
+author_image: /images/julius-caesar.webp
 keywords: Gaius, Static Site Generator, Example Site, Example Author Page
 description: Gaius Example Site Example Author Page
 ...
